@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this database, please cite the systematic review it comes from."
+title: "Rule extraction from feedforward neural networks: literature database"
+type: dataset
+authors:
+  - family-names: El Mekkaoui
+    given-names: Sara
+  - family-names: Benabbou
+    given-names: Loubna
+  - family-names: Berrado
+    given-names: Abdelaziz
+repository-code: "https://github.com/saraelmekkaoui/rule_ext_ann"
+url: "https://saraelmekkaoui.github.io/rule_ext_ann/"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Rule-Extraction Methods From Feedforward Neural Networks: A Systematic Literature Review"
+  authors:
+    - family-names: El Mekkaoui
+      given-names: Sara
+    - family-names: Benabbou
+      given-names: Loubna
+    - family-names: Berrado
+      given-names: Abdelaziz
+  year: 2023
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:2312.12878"
+  url: "https://arxiv.org/abs/2312.12878"

@@ -1,0 +1,82 @@
+id,name,papers,approach,translucency,design,application,scope,technique
+M01,,saito1988;lofstrom2004,explore_test,pedagogical,post-hoc,agnostic,global,Heuristic search
+M02,RN,saito1990,explore_test,pedagogical,post-hoc,agnostic,global,Stochastic search
+M03,,craven1994,explore_test,pedagogical,post-hoc,agnostic,global,Stochastic search
+M04,STARE,zhou2000,explore_test,pedagogical,post-hoc,agnostic,global,Heuristic search
+M05,,milare2001,explore_test,pedagogical,post-hoc,agnostic,global,Heuristic search
+M06,G-REX,johansson2004,explore_test,pedagogical,post-hoc,agnostic,global,Stochastic search
+M07,NNGR,yedjour2018,explore_test,pedagogical,post-hoc,agnostic,global,Stochastic search
+M08,Anchors,ribeiro2018,explore_test,pedagogical,post-hoc,agnostic,local,Heuristic search
+M09,MNNGR,yedjour2020,explore_test,pedagogical,post-hoc,agnostic,global,Stochastic search
+M10,MACIE,gallant1988,explore_test,decompositional,post-hoc,specific,global,Subset-type
+M11,KT-algorithm,fu1991;fu1994,explore_test,decompositional,post-hoc,specific,global,Subset-type
+M12,Subset,towell1993,explore_test,decompositional,post-hoc,specific,global,Subset-type
+M13,,sethi1994,explore_test,decompositional,post-hoc,specific,global,Subset-type
+M14,LAP,hayward1996,explore_test,decompositional,post-hoc,specific,global,Subset-type
+M15,Partial-RE,taha1999,explore_test,decompositional,post-hoc,specific,global,Subset-type
+M16,COMBO,krishnan1999,explore_test,decompositional,post-hoc,specific,global,Subset-type
+M17,OAS,kim2000,explore_test,decompositional,post-hoc,specific,global,Subset-type
+M18,,garcez2001,explore_test,decompositional,post-hoc,specific,global,Subset-type
+M19,,mcmillan1991a;mcmillan1991b,explore_test,decompositional,intrinsic,specific,global,Subset-type
+M20,MofN,towell1993;craven1993a;craven1993b,explore_test,decompositional,intrinsic,specific,global,Subset-type
+M21,GDS,blasig1993,explore_test,decompositional,intrinsic,specific,global,Subset-type
+M22,,alexander1994,explore_test,decompositional,intrinsic,specific,global,Subset-type
+M23,NeuroRule,lu1995;setiono1995;setiono1996,explore_test,decompositional,intrinsic,specific,global,Association rules
+M24,RX,lu1996;setiono1997b,explore_test,decompositional,intrinsic,specific,global,Association rules
+M25,RULE-OUT,decloedt1996,explore_test,decompositional,intrinsic,specific,global,Subset-type
+M26,,arbatli1997,explore_test,decompositional,intrinsic,specific,global,Subset-type
+M27,Modified RX,hruschka1998,explore_test,decompositional,intrinsic,specific,global,Association rules
+M28,,Hruschka2006,explore_test,decompositional,intrinsic,specific,global,Association rules
+M29,OAS,lee2021,explore_test,decompositional,intrinsic,specific,global,Subset-type
+M30,VIA,thrun1993;thrun1994;palade2001,explore_test,eclectic,post-hoc,specific,global,Heuristic and stochastic search
+M31,,garcez2001,explore_test,eclectic,post-hoc,specific,global,Exhaustive search
+M32,,craven1994,explore_test,eclectic,post-hoc,specific,global,Stochastic search
+M33,C-MLP2LN,duch1998,explore_test,eclectic,intrinsic,specific,global,Heuristic search
+M34,,lu2006,explore_test,eclectic,intrinsic,specific,global,Stochastic search
+M35,,kaikhah2006,explore_test,eclectic,intrinsic,specific,global,Association rules
+M36,TREPAN,craven1995,induced_models,pedagogical,post-hoc,agnostic,global,Decision trees
+M37,ANN-DT,schmitz1999,induced_models,pedagogical,post-hoc,agnostic,global,Decision trees
+M38,BIO-RE,taha1999,induced_models,pedagogical,post-hoc,agnostic,global,Boolean functions
+M39,,milare2001,induced_models,pedagogical,post-hoc,agnostic,global,Decision trees
+M40,KDRuleEx,sethi2012,induced_models,pedagogical,post-hoc,agnostic,global,Decision tables
+M41,,singh2016,induced_models,pedagogical,post-hoc,agnostic,local,Program learner
+M42,,che2016,induced_models,pedagogical,post-hoc,agnostic,global,Decision trees
+M43,Distilling,frosst2017,induced_models,pedagogical,post-hoc,agnostic,global,Decision trees
+M44,LORE,guidotti2018,induced_models,pedagogical,post-hoc,agnostic,local,Decision trees
+M45,,liu2018,induced_models,pedagogical,post-hoc,agnostic,global,Decision trees
+M46,,mereani2019,induced_models,pedagogical,post-hoc,agnostic,global,Boolean functions
+M47,,tsukimoto2000,induced_models,decompositional,post-hoc,specific,global,Boolean functions
+M48,CRED,sato2001,induced_models,decompositional,post-hoc,specific,global,Decision trees
+M49,REM-D,shams2021,induced_models,decompositional,post-hoc,specific,global,Decision trees
+M50,ECLAIRE,zarlenga2021,induced_models,decompositional,post-hoc,specific,global,Decision trees
+M51,REFANN,setiono2002;setiono2004,induced_models,decompositional,intrinsic,specific,global,Piecewise linear functions
+M52,DeepRED,zilke2016,induced_models,decompositional,intrinsic,specific,global,Decision trees
+M53,Tree-View,thiagarajan2016,induced_models,eclectic,post-hoc,specific,global,Decision trees
+M54,MLP2LN,duch1998,induced_models,eclectic,intrinsic,specific,global,Boolean functions
+M55,RE-RX,setiono2008,induced_models,eclectic,intrinsic,specific,global,Decision trees
+M56,NNKX,bondarenko2017,induced_models,eclectic,intrinsic,specific,global,Decision trees
+M57,Tree regularization,wu2018,induced_models,eclectic,intrinsic,specific,global,Decision trees
+M58,TNT,li2020,induced_models,eclectic,intrinsic,specific,global,Decision trees
+M59,Point Sensitivity Index (PSI) and Sensitivity Causal Index (SCI),goh1993,attribution,pedagogical,post-hoc,agnostic,global,Causality and sensitivity
+M60,RxREN,augasta2012;biswas2017,attribution,pedagogical,post-hoc,agnostic,global,Reverse engineering
+M61,RxNCM,biswas2018,attribution,pedagogical,post-hoc,agnostic,global,Reverse engineering
+M62,BRAINNE,bloomer1996,attribution,decompositional,intrinsic,specific,global,Weights analysis
+M63,Causal Index,baba1990,attribution,eclectic,post-hoc,specific,global,Gradient
+M64,BRAINNE,sestito1990;sestito1991;sestito1993,attribution,eclectic,post-hoc,specific,global,Network weights analysis
+M65,DEDEC,tickle1994,attribution,eclectic,post-hoc,specific,global,Network weights analysis
+M66,GLARE,gupta1999,attribution,eclectic,post-hoc,specific,global,Network weights analysis
+M67,Causal Attributions,chattopadhyay2019,attribution,eclectic,post-hoc,specific,global,Causality (Average Causal Effect)
+M68,TACO,ozbakir2008;ozbakir2009,optimization,eclectic,post-hoc,specific,global,Ant Colony Algorithm
+M69,,kahramanli2009,optimization,eclectic,post-hoc,specific,global,Artificial Immune Systems algorithm
+M70,,uzun2016,optimization,eclectic,post-hoc,specific,global,Variable Neighborhood Search
+M71,DIFACONN-miner,ozbakir2010,optimization,eclectic,intrinsic,specific,global,Ant Colony Algorithm
+M72,Full-RE,taha1999,hybrid,decompositional,post-hoc,specific,global,Optimization and explore & test
+M73,RN2,saito2002,hybrid,decompositional,post-hoc,specific,global,Decision trees and analytical expressions
+M74,Neurolinear,setiono1997a,hybrid,decompositional,intrinsic,specific,global,Linear inequalities and explore & test
+M75,FERNN,setiono2000,hybrid,decompositional,intrinsic,specific,global,Linear inequalities and decision trees
+M76,GRG,odajima2006,hybrid,decompositional,intrinsic,specific,global,Linear inequalities and explore & test
+M77,,huynh2009,hybrid,decompositional,intrinsic,specific,global,Decision trees and linear inequalities
+M78,ERENN-MHL,chakraborty2020,hybrid,decompositional,intrinsic,specific,global,Attribution methods and Boolean functions
+M79,IMLP,bologna1998,hybrid,eclectic,post-hoc,specific,global,Linear inequalities and Boolean functions
+M80,DIMLP,bologna2000,hybrid,eclectic,post-hoc,specific,global,Linear inequalities and decision trees
+M81,ERENNR,chakraborty2019,hybrid,eclectic,intrinsic,specific,global,Attribution methods and Boolean functions
